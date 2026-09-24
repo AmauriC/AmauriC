@@ -30,4 +30,4 @@ I develop my products and provide support directly to their users. I also offer 
 
 Contributions to tarteaucitron.js are welcome, including service integrations, bug fixes, translations and documentation improvements.
 
-[Meet the contributors](https://github.com/AmauriC/tarteaucitron.js/graphs/contributors) · [Support my open-source work](https://github.com/sponsors/AmauriC)
+[Meet the contributors](https://github.com/AmauriC/tarteaucitron.js/graphs/contributors) · [Support my open-source work](https://tarteaucitron.io/en/thanks-sponsors/)
